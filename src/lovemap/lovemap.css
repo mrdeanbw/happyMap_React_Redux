@@ -1,0 +1,27 @@
+.color-radio-wrap{
+    padding: 0 10px;
+}
+
+.input-row label {
+    color: #84cdf5;
+}
+
+.style0 {
+    border-color: #f56161 !important;
+}
+
+.style1 {
+    border-color: #7350a1 !important;
+}
+.style2 {
+    border-color: #131313 !important;
+}
+.style3 {
+    border-color: #51bb85 !important;
+}
+.style4 {
+    border-color: #faa91b !important;
+}
+.style5 {
+    border-color: #02a1d1 !important;
+}
